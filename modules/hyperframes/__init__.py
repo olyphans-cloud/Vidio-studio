@@ -1,0 +1,1 @@
+"""Hyperframes composition generation helpers."""

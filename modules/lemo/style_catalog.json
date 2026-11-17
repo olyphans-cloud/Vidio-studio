@@ -1,0 +1,237 @@
+{
+  "source": "https://github.com/lemomo-ai/lemo-opuscar",
+  "styles": [
+    {
+      "slug": "kino-montage",
+      "name": "Constructivist Montage",
+      "category": "Cinematic",
+      "source_category": "Edit & Documentary",
+      "uses": [
+        "Industry histories",
+        "Milestones",
+        "Collective effort"
+      ]
+    },
+    {
+      "slug": "dark-documentary",
+      "name": "Radar Sweep Documentary",
+      "category": "Documentary",
+      "source_category": "Instruments & Evidence",
+      "uses": [
+        "History of science and engineering",
+        "Archaeology, sites and reconstructions",
+        "Astronomy, deep space and survey"
+      ]
+    },
+    {
+      "slug": "cel-anime-80s",
+      "name": "80s Cel Anime",
+      "category": "Anime",
+      "source_category": "Cartoons",
+      "uses": [
+        "Music videos",
+        "Game trailers",
+        "Nostalgia"
+      ]
+    },
+    {
+      "slug": "midcentury-toon",
+      "name": "Mid-century Cartoon",
+      "category": "2D Animation",
+      "source_category": "Cartoons",
+      "uses": [
+        "Set-up guides",
+        "Help centres",
+        "How-to"
+      ]
+    },
+    {
+      "slug": "brick-toy",
+      "name": "Brick Toy",
+      "category": "3D Animation",
+      "source_category": "3D & Miniature",
+      "uses": [
+        "Toys & kids",
+        "Product builds",
+        "Space"
+      ]
+    },
+    {
+      "slug": "swiss-motion",
+      "name": "Swiss Motion Graphics",
+      "category": "Motion Graphics",
+      "source_category": "Graphic & Type",
+      "uses": [
+        "Brand identity",
+        "Events",
+        "Design education"
+      ]
+    },
+    {
+      "slug": "iso-infographic",
+      "name": "Isometric Infographic",
+      "category": "Infographic",
+      "source_category": "Line Diagrams",
+      "uses": [
+        "Process explainers",
+        "Supply chains",
+        "Annual reports"
+      ]
+    },
+    {
+      "slug": "pixel-rpg",
+      "name": "16-bit Pixel RPG",
+      "category": "Pixel Art",
+      "source_category": "Games",
+      "uses": [
+        "Game trailers",
+        "Recaps",
+        "Nostalgia"
+      ]
+    },
+    {
+      "slug": "watercolor",
+      "name": "Watercolor Brush",
+      "category": "Watercolor",
+      "source_category": "Painting & Illustration",
+      "uses": [
+        "Nature documentary",
+        "Travel",
+        "Science explainers"
+      ]
+    },
+    {
+      "slug": "isometric-picture-book",
+      "name": "Isometric People Scene",
+      "category": "Isometric",
+      "source_category": "3D & Miniature",
+      "uses": [
+        "Everyday rules",
+        "Queues",
+        "Comparisons"
+      ]
+    },
+    {
+      "slug": "whiteboard-explainer-no-hands",
+      "name": "Whiteboard Explainer (No Hands)",
+      "category": "Informasi & Edukasi",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Penjelasan informasi",
+        "Edukasi",
+        "Tutorial",
+        "Fakta"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "colored-pencil-science",
+      "name": "Colored-Pencil Science Illustration",
+      "category": "Informasi & Edukasi",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Sains",
+        "Alam",
+        "Teknologi",
+        "Pengetahuan"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "copperplate-engraving",
+      "name": "Copperplate Engraving",
+      "category": "Informasi & Edukasi",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Penemuan",
+        "Sejarah ilmiah",
+        "Dokumenter"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "stained-glass",
+      "name": "Stained Glass",
+      "category": "Informasi & Edukasi",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Arsitektur",
+        "Sejarah",
+        "Simbol budaya"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "urban-sketch-pen-wash",
+      "name": "Urban Sketch · Pen & Wash",
+      "category": "Wisata & Perjalanan",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Wisata kota",
+        "Destinasi",
+        "Suasana tempat"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "silkscreen-travel-poster",
+      "name": "Silkscreen Travel Poster",
+      "category": "Wisata & Perjalanan",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Promosi destinasi",
+        "Tempat terkenal",
+        "Pariwisata"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "risograph-print",
+      "name": "Risograph Print",
+      "category": "Seni & Budaya",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Seni modern",
+        "Musik",
+        "Budaya populer"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "ukiyo-e",
+      "name": "Ukiyo-e",
+      "category": "Seni & Budaya",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Seni Jepang",
+        "Budaya Jepang",
+        "Cerita klasik"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "red-paper-cut",
+      "name": "Red Paper-cut",
+      "category": "Seni & Budaya",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Seni tradisional Tiongkok",
+        "Perayaan",
+        "Cerita rakyat"
+      ],
+      "origin": "OLYPHANTS original"
+    },
+    {
+      "slug": "woodcut-print",
+      "name": "Woodcut Print",
+      "category": "Seni & Budaya",
+      "source_category": "Original Olyphants",
+      "uses": [
+        "Seni cetak klasik",
+        "Ilustrasi sejarah",
+        "Cerita dokumenter"
+      ],
+      "origin": "OLYPHANTS original"
+    }
+  ]
+}

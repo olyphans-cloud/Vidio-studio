@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#061A2B"><title>OLYPHANTS VIDEO STUDIO</title>
+  <link rel="stylesheet" href="/css/app.css?v=overview-progress-1">
+  <link rel="stylesheet" href="/css/menu.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#overview">OLYPHANTS</a>
+    <span id="connection" class="connection" role="status" aria-label="Status backend: menghubungkan" title="Status backend"><i></i></span>
+  </header>
+  <nav id="navigation" aria-label="Navigasi utama">
+    <button class="nav-item active" data-page="overview">
+      <svg class="nav-icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="8" height="8" rx="2"/><rect x="13" y="3" width="8" height="5" rx="2"/><rect x="13" y="10" width="8" height="11" rx="2"/><rect x="3" y="13" width="8" height="8" rx="2"/></svg><span>Overview</span>
+    </button>
+    <button class="nav-item" data-page="auto" data-auto-state="stopped" aria-label="New Video, status berhenti">
+      <svg class="nav-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v3m0 12v3M3 12h3m12 0h3M5.64 5.64l2.12 2.12m8.48 8.48 2.12 2.12m0-12.72-2.12 2.12m-8.48 8.48-2.12 2.12"/><circle cx="12" cy="12" r="4"/></svg><span>New Video</span><span class="auto-indicator" aria-label="AUTO BERHENTI">BERHENTI</span>
+    </button>
+    <button class="nav-item" data-page="approval">
+      <svg class="nav-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 4 3.7 10.7a1 1 0 0 0 .1 1.9l5 1.6 1.6 5a1 1 0 0 0 1.9.1L19 2.9A1 1 0 0 0 21 4Z"/><path d="m8.8 14.2 6.4-6.4"/></svg><span>Telegram Approval</span>
+    </button>
+    <button class="nav-item" data-page="apps">
+      <svg class="nav-icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="2"/><rect x="14" y="3" width="7" height="7" rx="2"/><rect x="3" y="14" width="7" height="7" rx="2"/><rect x="14" y="14" width="7" height="7" rx="2"/></svg><span>Connected Apps</span>
+    </button>
+    <button class="nav-item" data-page="settings">
+      <svg class="nav-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="m19.4 15 .1.1 1.2.9-1.2 2.1-1.4-.5a8 8 0 0 1-1.5.9l-.2 1.5h-2.4l-.3-1.5a8 8 0 0 1-1.5-.9l-1.4.5-1.2-2.1 1.2-.9a7 7 0 0 1 0-1.8l-1.2-.9 1.2-2.1 1.4.5a8 8 0 0 1 1.5-.9l.3-1.5h2.4l.2 1.5a8 8 0 0 1 1.5.9l1.4-.5 1.2 2.1-1.2.9a7 7 0 0 1 0 1.7Z" transform="translate(-1 -1)"/></svg><span>Settings</span>
+    </button>
+  </nav>
+  <main id="app" aria-live="polite"><section class="loading">Memuat status backend…</section></main>
+  <div id="toast" role="status" class="toast"></div>
+  <script src="/js/app.js?v=auto-manual-duration-qwen-multistyle-12" defer></script>
+</body>
+</html>
